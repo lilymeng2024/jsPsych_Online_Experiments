@@ -4,7 +4,7 @@
 source("./R/pre_experiment/functions_to_create_stimuli.R")
 
 # set the words, colours, correct responses, and phase that you want
-words <- c("MONTH", "UNDER", "PLATE", "CLOCK")
+words <- c("RED", "YELLOW", "GREEN", "BLACK")
 colours <- c("red", "yellow", "green")
 cor_responses<-c("j","k","l")
 phase<-"Practice"

@@ -1,8 +1,8 @@
 var practice_stimuli = [
 {
-	"stimulus":"<p id = 'contingency_stim', style = 'color: red; font-size: 60pt;'>MONTH</p>", 
+	"stimulus":"<p id = 'contingency_stim', style = 'color: red; font-size: 60pt;'>RED</p>", 
 	"data": {
-		"word": "MONTH",
+		"word": "RED",
 		 "colour": "red",
 		 "cor_response": "j",
 		 "phase": "Practice",
@@ -10,9 +10,9 @@ var practice_stimuli = [
 	},
 },
 {
-	"stimulus":"<p id = 'contingency_stim', style = 'color: yellow; font-size: 60pt;'>MONTH</p>", 
+	"stimulus":"<p id = 'contingency_stim', style = 'color: yellow; font-size: 60pt;'>RED</p>", 
 	"data": {
-		"word": "MONTH",
+		"word": "RED",
 		 "colour": "yellow",
 		 "cor_response": "k",
 		 "phase": "Practice",
@@ -20,9 +20,9 @@ var practice_stimuli = [
 	},
 },
 {
-	"stimulus":"<p id = 'contingency_stim', style = 'color: green; font-size: 60pt;'>MONTH</p>", 
+	"stimulus":"<p id = 'contingency_stim', style = 'color: green; font-size: 60pt;'>RED</p>", 
 	"data": {
-		"word": "MONTH",
+		"word": "RED",
 		 "colour": "green",
 		 "cor_response": "l",
 		 "phase": "Practice",
@@ -30,9 +30,9 @@ var practice_stimuli = [
 	},
 },
 {
-	"stimulus":"<p id = 'contingency_stim', style = 'color: red; font-size: 60pt;'>UNDER</p>", 
+	"stimulus":"<p id = 'contingency_stim', style = 'color: red; font-size: 60pt;'>YELLOW</p>", 
 	"data": {
-		"word": "UNDER",
+		"word": "YELLOW",
 		 "colour": "red",
 		 "cor_response": "j",
 		 "phase": "Practice",
@@ -40,9 +40,9 @@ var practice_stimuli = [
 	},
 },
 {
-	"stimulus":"<p id = 'contingency_stim', style = 'color: yellow; font-size: 60pt;'>UNDER</p>", 
+	"stimulus":"<p id = 'contingency_stim', style = 'color: yellow; font-size: 60pt;'>YELLOW</p>", 
 	"data": {
-		"word": "UNDER",
+		"word": "YELLOW",
 		 "colour": "yellow",
 		 "cor_response": "k",
 		 "phase": "Practice",
@@ -50,9 +50,9 @@ var practice_stimuli = [
 	},
 },
 {
-	"stimulus":"<p id = 'contingency_stim', style = 'color: green; font-size: 60pt;'>UNDER</p>", 
+	"stimulus":"<p id = 'contingency_stim', style = 'color: green; font-size: 60pt;'>YELLOW</p>", 
 	"data": {
-		"word": "UNDER",
+		"word": "YELLOW",
 		 "colour": "green",
 		 "cor_response": "l",
 		 "phase": "Practice",
@@ -60,9 +60,9 @@ var practice_stimuli = [
 	},
 },
 {
-	"stimulus":"<p id = 'contingency_stim', style = 'color: red; font-size: 60pt;'>PLATE</p>", 
+	"stimulus":"<p id = 'contingency_stim', style = 'color: red; font-size: 60pt;'>GREEN</p>", 
 	"data": {
-		"word": "PLATE",
+		"word": "GREEN",
 		 "colour": "red",
 		 "cor_response": "j",
 		 "phase": "Practice",
@@ -70,9 +70,9 @@ var practice_stimuli = [
 	},
 },
 {
-	"stimulus":"<p id = 'contingency_stim', style = 'color: yellow; font-size: 60pt;'>PLATE</p>", 
+	"stimulus":"<p id = 'contingency_stim', style = 'color: yellow; font-size: 60pt;'>GREEN</p>", 
 	"data": {
-		"word": "PLATE",
+		"word": "GREEN",
 		 "colour": "yellow",
 		 "cor_response": "k",
 		 "phase": "Practice",
@@ -80,9 +80,9 @@ var practice_stimuli = [
 	},
 },
 {
-	"stimulus":"<p id = 'contingency_stim', style = 'color: green; font-size: 60pt;'>PLATE</p>", 
+	"stimulus":"<p id = 'contingency_stim', style = 'color: green; font-size: 60pt;'>GREEN</p>", 
 	"data": {
-		"word": "PLATE",
+		"word": "GREEN",
 		 "colour": "green",
 		 "cor_response": "l",
 		 "phase": "Practice",
@@ -90,9 +90,9 @@ var practice_stimuli = [
 	},
 },
 {
-	"stimulus":"<p id = 'contingency_stim', style = 'color: red; font-size: 60pt;'>CLOCK</p>", 
+	"stimulus":"<p id = 'contingency_stim', style = 'color: red; font-size: 60pt;'>BLACK</p>", 
 	"data": {
-		"word": "CLOCK",
+		"word": "BLACK",
 		 "colour": "red",
 		 "cor_response": "j",
 		 "phase": "Practice",
@@ -100,9 +100,9 @@ var practice_stimuli = [
 	},
 },
 {
-	"stimulus":"<p id = 'contingency_stim', style = 'color: yellow; font-size: 60pt;'>CLOCK</p>", 
+	"stimulus":"<p id = 'contingency_stim', style = 'color: yellow; font-size: 60pt;'>BLACK</p>", 
 	"data": {
-		"word": "CLOCK",
+		"word": "BLACK",
 		 "colour": "yellow",
 		 "cor_response": "k",
 		 "phase": "Practice",
@@ -110,9 +110,9 @@ var practice_stimuli = [
 	},
 },
 {
-	"stimulus":"<p id = 'contingency_stim', style = 'color: green; font-size: 60pt;'>CLOCK</p>", 
+	"stimulus":"<p id = 'contingency_stim', style = 'color: green; font-size: 60pt;'>BLACK</p>", 
 	"data": {
-		"word": "CLOCK",
+		"word": "BLACK",
 		 "colour": "green",
 		 "cor_response": "l",
 		 "phase": "Practice",
